@@ -1,7 +1,10 @@
+body {
+  background-color: #ffffff;
+}
+
 .btn-primary {
   background-color: #6c3df4;
   border: none;
-  border-radius: 8px;
 }
 
 .btn-primary:hover {
